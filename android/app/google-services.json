@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392500343292",
+    "project_id": "codeandwin-fb840",
+    "storage_bucket": "codeandwin-fb840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392500343292:android:5106007b023e7b41554279",
+        "android_client_info": {
+          "package_name": "com.example.startup_mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-p7ITGQB65IlulCIzwhUj6WR34gVbak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392500343292:android:ff408197d0426ad0554279",
+        "android_client_info": {
+          "package_name": "com.example.startup_mobileapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-p7ITGQB65IlulCIzwhUj6WR34gVbak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
